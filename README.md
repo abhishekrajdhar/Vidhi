@@ -1,4 +1,3 @@
-````markdown
 # 🩺 Vidhi v1 — Healthcare Small Language Model (SLM)
 
 Vidhi v1 is a lightweight healthcare-focused Small Language Model (SLM) designed for biomedical reasoning, medical question answering, and assistant-style healthcare conversations.
